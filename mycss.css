@@ -1,0 +1,44 @@
+
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+div{
+  height: 120px;
+    width: 100%;
+   margin:1% 23%;
+    padding:30px;
+
+
+}
+.border{
+  border-style: solid;
+  width:50%;
+  height:200px;
+}
+.size{
+  font-style: normal;
+  font-size: 30px;
+  font-weight: bold;
+  color:green;
+
+}
+p{
+  text-align: center;
+  color: black;
+}
+th{
+  color:green;
+
+}
+table{
+  width:50%;
+}
+table,th,td,tr{
+  border: 1px solid black;
+    align:"center";
+
+
+
+}
